@@ -17,3 +17,5 @@ Slack_AWS_Health_Alert_Across_Account
         "ACCOUNT ID" : "YOUR SERVICE_NAME",
         "ACCOUNT ID" : "YOUR SERVICE_NAME"
 }
+
+![image](https://github.com/Kwon-Sung-joon/Slack_AWS_Health_Alert_Across_Account/assets/43159901/699c7995-b7be-4065-a003-e9e7dd4a9d9f)
